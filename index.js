@@ -10,7 +10,7 @@ client.on('ready', () => {
   console.log(`Client is ready! Logged in as ${client.user.tag}`);
 
   const activities = [
-    { type: ActivityType.Playing, name: "Made by 💖 codewithprasith | akainu" },
+    { type: ActivityType.Playing, name: "Made by 💖 codewithakainu" },
     { type: ActivityType.Watching, name: "with groq api" },
     { type: ActivityType.Listening, name: "Managed by 🎐『Team Alpha』" },
   ];

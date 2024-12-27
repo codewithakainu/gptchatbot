@@ -19,8 +19,17 @@ It use groq api.It doesn't support chatgpt api.If you really want the code that 
 ### Subscribe to YouTube Channel
 https://youtube.com/@codewithakainu
 
+<h1>Step to set the bot</h1>
 
+Avoid the use of npm init -y if you are using hosting panel.
+
+### download node.js and use
+    npm init -y
+    
 ### packages to install
     npm install discord.js
     npm install dotenv
     npm install axios
+
+### set the token and groqapi
+    

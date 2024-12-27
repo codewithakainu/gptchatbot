@@ -74,3 +74,8 @@ client.on('messageCreate', async (message) => {
 });
 
 client.login(process.env.TOKEN);
+
+//@ Don't remove the credit 
+//@ Made by codewithakainu 
+//@ groq api used
+

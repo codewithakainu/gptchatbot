@@ -7,7 +7,6 @@ Botimusprime is an ai bot that interact with people in your discord server.Make 
 It use groq api.It doesn't support chatgpt api.If you really want the code that implement chatgpt api contact me through discord server.Don't use code for public bot without developer permission.Bot will.get copyright.
 
 ### How to set the bot?
-    Watch - 
 
 # 🚀 Join Us
 
@@ -20,3 +19,9 @@ It use groq api.It doesn't support chatgpt api.If you really want the code that 
 ### Subscribe to YouTube Channel
 [![Subscribe YouTube Channel](https://img.shields.io/badge/▶️%20Subscribe-YouTube-FF0000?style=for-the-badge)](https://youtube.com/@codewith
 akainu)
+
+
+### packages to install
+    npm install discord.js
+    npm install dotenv
+    npm install axios

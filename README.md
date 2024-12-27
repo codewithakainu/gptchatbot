@@ -37,7 +37,7 @@ Avoid the use of npm init -y if you are using hosting panel.
 
 ### change the channel_id in the index.js with your channel_id
 
-<img src="../assetsforgithub/IMG_20241227_181238.jpg" />
+<img src="assetsforgithub/IMG_20241227_181238.jpg" />
 
 
 ### command to run the code in vscode or other code editor and vps

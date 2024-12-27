@@ -1,7 +1,7 @@
 <img src="">
 
 <h1>BOTIMUSPRIME</h1>
-Coded by codewithakainu
+<h2>Coded by codewithakainu</h2>
 
 Botimusprime is an ai bot that interact with people in your discord server.Make your discord server alive.
 It use groq api.It doesn't support chatgpt api.If you really want the code that implement chatgpt api contact me through discord server.Don't use code for public bot without developer permission.Bot will.get copyright.

@@ -6,12 +6,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "codewithprasith | akainu",
+  "author": "codewithakainu",
   "license": "ISC",
   "description": "gptchatbot",
   "dependencies": {
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.7",
-    "openai": "^4.77.0"
+     "axios": "^1.7.9",
   }
 }

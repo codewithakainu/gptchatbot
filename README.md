@@ -1,4 +1,4 @@
-<img src="">
+<img src="assetsforgithub/IMG_20241227_194716.jpg">
 
 <h1>BOTIMUSPRIME</h1>
 <h2>Coded by codewithakainu</h2>
@@ -45,3 +45,4 @@ Avoid the use of npm init -y if you are using hosting panel.
 
 ### command to run in hosting panel
     index.js
+### New updates will be coming soon by codewithakainu 

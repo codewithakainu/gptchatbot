@@ -35,6 +35,11 @@ Avoid the use of npm init -y if you are using hosting panel.
     TOKEN = GIVE YOUR BOT TOKEN FROM DISCORD DEVELOPER PORTAL
     GROQ_API_KEY = GIVE API KEY FROM GROQ 
 
+### change the channel_id in the index.js with your channel_id
+
+<img src="../assetsforgithub/IMG_20241227_181238.jpg" />
+
+
 ### command to run the code in vscode or other code editor and vps
     node index.js
 

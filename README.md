@@ -32,4 +32,11 @@ Avoid the use of npm init -y if you are using hosting panel.
     npm install axios
 
 ### set the token and groqapi
-    
+    TOKEN = GIVE YOUR BOT TOKEN FROM DISCORD DEVELOPER PORTAL
+    GROQ_API_KEY = GIVE API KEY FROM GROQ 
+
+### command to run the code in vscode or other code editor and vps
+    node index.js
+
+### command to run in hosting panel
+    index.js

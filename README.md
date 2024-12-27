@@ -17,8 +17,7 @@ It use groq api.It doesn't support chatgpt api.If you really want the code that 
 [![Message Me on Discord](https://img.shields.io/badge/✉️%20Message-Me%20on%20Discord-5865F2?style=for-the-badge)](https://discord.gg/buJTr4ua)
 
 ### Subscribe to YouTube Channel
-[![Subscribe YouTube Channel](https://img.shields.io/badge/▶️%20Subscribe-YouTube-FF0000?style=for-the-badge)](https://youtube.com/@codewith
-akainu)
+https://youtube.com/@codewithakainu
 
 
 ### packages to install

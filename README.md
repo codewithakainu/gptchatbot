@@ -31,7 +31,7 @@ Avoid the use of npm init -y if you are using hosting panel.
     npm install dotenv
     npm install axios
 
-### set the token and groqapi
+### set the token and groqapi in .env file
     TOKEN = GIVE YOUR BOT TOKEN FROM DISCORD DEVELOPER PORTAL
     GROQ_API_KEY = GIVE API KEY FROM GROQ 
 

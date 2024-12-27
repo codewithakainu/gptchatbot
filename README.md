@@ -19,7 +19,7 @@ It use groq api.It doesn't support chatgpt api.If you really want the code that 
 ### Subscribe to YouTube Channel
 https://youtube.com/@codewithakainu
 
-<h1>Step to set the bot</h1>
+<h1>Step by step to set the bot</h1>
 
 Avoid the use of npm init -y if you are using hosting panel.
 

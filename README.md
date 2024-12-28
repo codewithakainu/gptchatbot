@@ -46,3 +46,5 @@ Avoid the use of npm init -y if you are using hosting panel.
 ### start up command for hosting panel
     index.js
 ### New updates will be coming soon by codewithakainu 
+
+### version 1.0.1 will be coming soon

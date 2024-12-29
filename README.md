@@ -43,8 +43,6 @@ Avoid the use of npm init -y if you are using hosting panel.
 ### command to run the code in vscode or other code editor and vps
     node index.js
 
-### start up command for hosting panel
-    index.js
 ### New updates will be coming soon by codewithakainu 
 
 ### version 1.0.1 will be coming soon
